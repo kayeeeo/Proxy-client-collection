@@ -64,8 +64,7 @@
 * **[Karing Harmony](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap)** - 基于Karing/sing-box的鸿蒙代理工具，支持订阅与多协议
 * **[Hey](https://github.com/popsiclelmlm/Hey)** - 基于Xray/sing-box内核的鸿蒙原生代理客户端
 * **[Bettbox](https://github.com/htoay/Bettbox)** - Bettbox鸿蒙移植版
-* **[FlClash](https://github.com/tljk/FlClash-ohos)** - FlClash鸿蒙版 基于ClashMeta的多平台代理客户端
-
+* **[FlClash](https://github.com/tljk/FlClash-ohos)** - FlClash鸿蒙移植版 基于ClashMeta的多平台代理客户端
 
 ## TV / 电视端 (Apple TV & Android TV)
 
